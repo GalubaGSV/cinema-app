@@ -1,7 +1,7 @@
 ﻿# Cinema-App
 
 This is a web application designed for educational and demonstration purposes that simulates a ticket reservation system in a cinema.
-The database already has an injection - The database already contains users:
+The database already has an injection with 2 users:
 
 * Admin: admin@i.ua : admin123
 * User: alice@i.ua : alice123
