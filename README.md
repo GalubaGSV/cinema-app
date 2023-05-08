@@ -55,7 +55,7 @@ Almost all endpoints are secured by role-based authorization. More details can b
 * `dto` - wrapper for model objects to unify the requests and responses in controllers
 * `lib` - contains email and password validators with its annotations
 * `model` - contains models for the database
-* `service` - contains services that call repositories and the Authentication class
+* `service` - contains services that call repositories and the AuthenticationService class
 * `mapper` - converts model objects to DTO objects
 
 ## Technologies
